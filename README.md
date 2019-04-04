@@ -15,3 +15,5 @@ mcs.random() //=> 'purple darken-2'
 mcs.randomColors() //=> 'green'
 mcs.randomVariants() //=> 'accent-4'
 ```
+
+&copy; funnythingz

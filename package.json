@@ -1,0 +1,19 @@
+{
+  "name": "material-colors-selector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funnythingz/material-colors-selector.git"
+  },
+  "author": "funnythingz <funnythingz69@gmail.com> (https://github.com/funnythingz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funnythingz/material-colors-selector/issues"
+  },
+  "homepage": "https://github.com/funnythingz/material-colors-selector#readme"
+}

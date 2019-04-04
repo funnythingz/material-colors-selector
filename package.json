@@ -12,5 +12,11 @@
   "bugs": {
     "url": "https://github.com/funnythingz/material-colors-selector/issues"
   },
-  "homepage": "https://github.com/funnythingz/material-colors-selector#readme"
+  "homepage": "https://github.com/funnythingz/material-colors-selector#readme",
+  "devDependencies": {
+    "ava": "^1.4.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }

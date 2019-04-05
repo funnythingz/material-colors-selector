@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/funnythingz/material-colors-selector.svg?branch=master)](https://travis-ci.org/funnythingz/material-colors-selector)
 
-random select from material colors for [https://vuetifyjs.com/en/framework/colors#material-colors][vuetifyjs].
+random select from material colors for [vuetifyjs](https://vuetifyjs.com/en/framework/colors#material-colors).
 
 ## Usage
 

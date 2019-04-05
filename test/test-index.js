@@ -3,14 +3,32 @@ import MaterialColorsSelector from '../index';
 
 const mcs = new MaterialColorsSelector();
 
-test('mcs#random', t => {
-  t.true((typeof mcs.random()) === 'string');
-});
-
 test('mcs#randomColors', t => {
-  t.true((typeof mcs.randomColors()) === 'string');
+  var end = false;
+  while(!end) {
+    if(mcs.randomColors() === 'pink') {
+      end = true;
+    }
+  }
+  t.true(true);
 });
 
 test('mcs#randomVariants', t => {
-  t.true((typeof mcs.randomVariants()) === 'string');
+  var end = false;
+  while(!end) {
+    if(mcs.randomVariants() === 'accent-1') {
+      end = true;
+    }
+  }
+  t.true(end);
+});
+
+test('mcs#random', t => {
+  var end = false;
+  while(!end) {
+    if(mcs.random() === 'purple accent-4') {
+      end = true;
+    }
+  }
+  t.true(end);
 });

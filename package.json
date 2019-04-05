@@ -1,7 +1,7 @@
 {
   "name": "material-colors-selector",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.3",
+  "description": "random select from material colors for vuetifyjs",
   "main": "index.js",
   "scripts": {
     "test": "ava -v"
